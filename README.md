@@ -1,2 +1,2 @@
 # thi
-Đừng gửi cho ai khác
+Đừng gửi cho ai khác.
